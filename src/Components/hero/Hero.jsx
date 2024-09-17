@@ -1,5 +1,5 @@
 
-import "./hero.css"
+import "../hero/hero.css"
 import dark_arrow from "../../edusity_assets/dark-arrow.png"
 
 const Hero = () => {
