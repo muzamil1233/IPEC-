@@ -1,6 +1,6 @@
 
 import { useRef } from "react"
-import "./videoplayer.css"
+import "../videoplayer/VideoPlayer.css"
 import video from "../../edusity_assets/ipecv.mp4"
 
 const Videoplayer = ({playstate  ,setPlayState}) => {

@@ -1,5 +1,5 @@
 
-import "./About.css"
+import "../About/About.css"
 import  about_img from "../../edusity_assets/about.png"
 import play_icon from "../../edusity_assets/play-icon.png"
 

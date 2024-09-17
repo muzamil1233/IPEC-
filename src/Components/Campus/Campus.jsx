@@ -1,4 +1,4 @@
-import "./Campus.css"
+import "../Campus/Campus.css"
 import gallery_1 from '../../edusity_assets/testinmonial.jpg';
 import gallery_2 from '../../edusity_assets/adil.jpg'
 import gallery_3 from '../../edusity_assets/img 2.jpg';

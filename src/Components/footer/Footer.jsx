@@ -1,5 +1,5 @@
 
-import "./Footer.css"
+import "../footer/Footer.css"
 import {AiFillGithub ,AiFillLinkedin,AiFillInstagram} from  'react-icons/ai'
 
 const Footer = () => {
