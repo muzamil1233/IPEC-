@@ -1,4 +1,4 @@
-import ".././Testimonials/Testimonials.css"
+import "./Testimonials.css"
 import next_icon from "../../edusity_assets/next-icon.png"
 import back_icon from "../../edusity_assets/back-icon.png"
 import user_1 from "../../edusity_assets/kamran.jpg"

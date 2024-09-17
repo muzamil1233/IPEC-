@@ -1,5 +1,5 @@
 
-import "../programs/programs.css"
+import "./programs.css"
 import program_1 from "../../edusity_assets/program-1.png"
 import program_2 from "../../edusity_assets/program-2.png"
 import program_3 from "../../edusity_assets/program-3.png"

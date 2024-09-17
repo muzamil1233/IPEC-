@@ -1,4 +1,4 @@
-import ".././Contact/Contact.css"
+import "./Contact.css"
 import msg_icon from "../../edusity_assets/msg-icon.png"
 import mail_icon from "../../edusity_assets/mail-icon.png"
 import phone_icon from "../../edusity_assets/phone-icon.png"
